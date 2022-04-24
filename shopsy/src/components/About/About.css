@@ -1,0 +1,12 @@
+.myabout{
+   background: #0000;
+   text-align: center;
+}
+.itembar{
+    background:red;
+}
+.img{
+    width: 2px;
+    padding: 100px;
+    margin: 10px;
+}

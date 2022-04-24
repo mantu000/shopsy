@@ -1,0 +1,49 @@
+.body{
+    background-image: linear-gradient(to left, #e21985, #26b5ff) !important;
+    min-height: 75vh;
+    display:flow-root;
+    margin-top: 10px;
+    
+}
+.logForm{
+    text-align: center;
+    background-color: white;
+    width: 32% ;
+    height: 370px;
+    margin-top: 70px;
+    margin-left: 400px;
+    padding-top: 10px;
+   border: 100px;
+   
+ 
+
+}
+.phn{
+   padding-right: 85px;
+   
+}
+.pass{
+    
+    height: 25px;
+    width: 100%;
+    padding-right: 85px;
+    
+
+}
+.submit{
+    background-image: linear-gradient(to left, #e21985, #26b5ff);
+    color: white;
+    margin-left: 0px;
+    width: 48%;
+    height: 32px;
+    border: none;
+  
+}
+#signup{
+    color: blue;
+}
+#not_a_member{
+    margin-left: 10px;
+    font-family: Arial;
+    font-size: small;
+}

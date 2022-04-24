@@ -1,0 +1,37 @@
+.mysection{
+    background-image: linear-gradient(to left, #e21985, #26b5ff) !important;
+
+    height: 10vh;
+    
+    
+}
+.sear{
+    color: antiquewhite;
+}
+.mypart{
+    margin-left: 100px;
+    nav-right: current;
+   
+ 
+    /* background-color: blue; */
+}
+.logo{
+    margin: 4pc;
+    
+    
+}
+.icon{
+    font-size: 30px;
+    margin-right: 50px;
+}
+
+.page-container{
+    display: flex;
+    flex-direction: column;
+    height: 50px;
+    
+}
+
+.content-wrap{
+    flex: 1;
+}

@@ -1,0 +1,22 @@
+.main-footer{
+    position: relative;
+    color: white;
+    /* background-color: #0000 !important; */
+    background-image: linear-gradient(to left, #000, #000) !important;
+    padding-top: 3em;
+    bottom: 0;
+    width: 100%;
+
+   
+}
+.container{
+    background-color: #0000;
+    padding: auto;
+
+}
+.title{
+    size: 50px;
+}
+icons{
+size-adjust: 10px;
+}

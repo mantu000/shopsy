@@ -1,0 +1,190 @@
+<CardGroup className='mycard'>
+        <Card>
+          <Card.Img  variant="top" className='myci' src="../../../../../img/bat4.jpg" />
+          <Card.Body>
+            <Card.Title>Elevar Gully</Card.Title>
+            <Card.Text className='myctext'>
+            This bat is made for destructive tennis ball batting. Thank you Elevar for another excellent addition to your product range.
+
+            </Card.Text>
+          </Card.Body>
+          <Card.Footer>
+            <small className="text-muted"> M.R.P.: ₹1,358.00</small>
+            <Button variant="primary" onClick={() => setShow(true)}>
+              Booking
+            </Button>
+          </Card.Footer>
+        </Card>
+        <Card>
+          <Card.Img variant="top" className='myci' src="../../../../../img/ss1.jpg" />
+          <Card.Body>
+            <Card.Title>SS BAT</Card.Title>
+            <Card.Text className='myctext'>
+            S S Sports Weapon Popular Willow Cricket Bat.
+            </Card.Text>
+          </Card.Body>
+          <Card.Footer>
+            <small className="text-muted"> M.R.P.: ₹1,599.00</small>
+            <Button variant="primary" onClick={() => setShow(true)}>
+              Booking
+            </Button>
+          </Card.Footer>
+        </Card>
+        <Card>
+          <Card.Img variant="top" className='myci'src="../../../../../img/mrf1.jpg" />
+          <Card.Body>
+            <Card.Title>MRF BAT</Card.Title>
+            <Card.Text className='myctext'>
+            PMG Wooden Cricket Bat Size 6, for Boys of 12-14 Year, Poplar Willow
+            </Card.Text>
+          </Card.Body>
+          <Card.Footer>
+            <small className="text-muted"> M.R.P.: ₹699.00</small>
+            <Button variant="primary" onClick={() => setShow(true)}>
+              Booking
+            </Button>
+          </Card.Footer>
+        </Card>
+        <Card>
+          <Card.Img variant="top" className='myci' src="../../../../../img/ceat.jpg" />
+          <Card.Body>
+            <Card.Title>CEAT BAT</Card.Title>
+            <Card.Text className='myctext'>
+            MSOB Sports Bat CEAT Multicolour Full Size Poplar Willow Wooden Cricket Bat for Tennis Ball for Men and Women (Pack of 1)
+            </Card.Text>
+          </Card.Body>
+          <Card.Footer>
+            <small className="text-muted"> M.R.P.: ₹1,999.00</small>
+            <Button variant="primary" onClick={() => setShow(true)}>
+              Booking
+            </Button>
+          </Card.Footer>
+        </Card>
+        <Card>
+          <Card.Img variant="top" className='myci' src="../../../../../img/ton1.jpg" />
+          <Card.Body>
+            <Card.Title>TON BAT</Card.Title>
+            <Card.Text className='myctext'>
+              This card has supporting text below as a natural lead-in to additional
+              content.{' '}
+            </Card.Text>
+          </Card.Body>
+          <Card.Footer>
+            <small className="text-muted">M.R.P.: ₹999.00</small>
+            <Button variant="primary" onClick={() => setShow(true)}>
+              Booking
+            </Button>
+            {/* <CloseButton ></CloseButton> */}
+
+          </Card.Footer>
+        </Card>
+      </CardGroup>
+
+
+
+      <CardGroup>
+  <Card>
+    <Card.Img variant="top" className='myci' src="../../../../../img/cover.jpg" />
+    <Card.Body>
+      <Card.Title>Nodens Cricket Bat Grip</Card.Title>
+      <Card.Text>Nodens Cricket Bat Grip, (Multicolour Pack of 6)</Card.Text>
+    </Card.Body>
+    <Card.Footer>
+      <small className="text-muted">M.R.P.: ₹699.00</small>
+      <Button variant="primary" onClick={() => setShow(true)}>
+              Buy Now
+            </Button>
+    </Card.Footer>
+  </Card>
+  <Card>
+    <Card.Img variant="top" className='myci' src="../../../../../img/toy.jpg" />
+    <Card.Body>
+      <Card.Title>Toyshine Cricket bat Care Accessory kit</Card.Title>
+      <Card.Text>
+      Toyshine Cricket bat Care Accessory kit- Bat Toe, Handle, Thread, Cone, Fiber Tape, Grips, Hammer and Cover SSTP, Multicolour
+      </Card.Text>
+    </Card.Body>
+    <Card.Footer>
+      <small className="text-muted">M.R.P.: ₹2,999.00</small>
+      <Button variant="primary" onClick={() => setShow(true)}>
+              Buy Now
+            </Button>
+    </Card.Footer>
+  </Card>
+  <Card>
+    <Card.Img variant="top" className='myci' src="../../../../../img/boll1.jpg" />
+    <Card.Body>
+      <Card.Title>Vicky Boll</Card.Title>
+      <Card.Text>
+      Vicky Rubber Cricket Tennis Ball - Super (Heavy), Maroon Standard Size
+      </Card.Text>
+    </Card.Body>
+    <Card.Footer>
+      <small className="text-muted">M.R.P.: ₹580.00</small>
+      <Button variant="primary" onClick={() => setShow(true)}>
+              Buy Now
+            </Button>
+    </Card.Footer>
+  </Card>
+  <Card>
+    <Card.Img variant="top" className='myci' src="../../../../../img/glove.jpg" />
+    <Card.Body>
+      <Card.Title> BAS Glove</Card.Title>
+      <Card.Text>
+      BAS Vampire Player Edition Batting Glove (Right)
+      </Card.Text>
+    </Card.Body>
+    <Card.Footer>
+      <small className="text-muted">M.R.P.: ₹3,999.00</small>
+      <Button variant="primary" onClick={() => setShow(true)}>
+              Buy Now
+            </Button>
+    </Card.Footer>
+  </Card>
+  <Card>
+    <Card.Img variant="top" className='myci' src="../../../../../img/wek.jpg" />
+    <Card.Body>
+      <Card.Title>Cricket Wooden</Card.Title>
+      <Card.Text>
+      SAS SPORTS Cricket Wooden Stump Set with Bails
+      </Card.Text>
+    </Card.Body>
+    <Card.Footer>
+      <small className="text-muted">M.R.P.: ₹1,499.00</small>
+      <Button variant="primary" onClick={() => setShow(true)}>
+              Buy Now
+            </Button>
+    </Card.Footer>
+  </Card>
+  
+  <Card>
+    <Card.Img variant="top" className='myci' src="../../../../../img/tshirt1.jpg" />
+    <Card.Body>
+      <Card.Title>Sport T-shirt</Card.Title>
+      <Card.Text>
+      Sports Cricket t-shirt jersey design template, mock up uniform kit with front and back view
+      </Card.Text>
+    </Card.Body>
+    <Card.Footer>
+      <small className="text-muted">Price:	₹447.00</small>
+      <Button variant="primary" onClick={() => setShow(true)}>
+              Buy Now
+            </Button>
+    </Card.Footer>
+  </Card>
+  <Card>
+    <Card.Img variant="top" className='myci' src="../../../../../img/trophy.jpg" />
+    <Card.Body>
+      <Card.Title>Trophy</Card.Title>
+      <Card.Text>
+      SAFFCO, Star Metallic Trophy(Pack of 17)
+      </Card.Text>
+    </Card.Body>
+    <Card.Footer>
+      <small className="text-muted">M.R.P.: ₹11,300.00</small>
+      <Button variant="primary" onClick={() => setShow(true)}>
+              Buy Now
+            </Button>
+    </Card.Footer>
+  </Card>
+</CardGroup>

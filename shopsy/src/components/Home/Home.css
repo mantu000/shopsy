@@ -1,0 +1,45 @@
+.hb{
+    background-image: linear-gradient(to left, #e21985, #26b5ff) !important;
+    /* background-color: #121926; */
+   
+}
+.mycard{
+ 
+    margin-top: 20px;
+    margin-bottom: 5pc;
+    margin-left: 2pc;
+    margin-right: 2pc;
+    
+}
+.img{
+    height: 400px;
+    
+    width: 8px;
+    padding: 50px;
+    margin: 10px;
+    text-align: center;
+}
+.myci{
+    height: 150px;
+    width: 100px;
+}
+.myctext{
+    height: 100px;
+    text-align: center;
+}
+h3{
+    color: greenyellow;
+}
+.img2{
+    width: 10px;
+    padding: 80px;
+    margin: 10px;
+    text-align: center;
+    background-origin: padding-box;
+    max-height: 500px;
+}
+.g-4{
+   padding: 100px;
+   margin: 50px;
+ white-space: normal;
+}
